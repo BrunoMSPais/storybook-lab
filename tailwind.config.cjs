@@ -19,8 +19,8 @@ module.exports = {
 				500: '#81d8f7',
 				300: '#9be1fb',
 			},
-			black: '#000',
-			white: '#ffffff',
+			black: '#000000',
+			white: '#fff',
 			transparent: 'transparent',
 		},
 		fontSize: {
