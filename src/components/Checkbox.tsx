@@ -7,7 +7,7 @@ export function Checkbox(props: CheckboxProps) {
 
   return (
     <CheboxPremitive.Root
-      className='w-6 h-6 p-[2px] bg-gray-800 rounded'
+      className='w-6 h-6 p-[2px] bg-gray-800 rounded focus:ring-2 ring-cyan-300 outline-none'
       {...props}
     >
       <CheboxPremitive.Indicator>
